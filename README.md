@@ -1,0 +1,2 @@
+# org.TWheat.eg.db
+This is an R package for GO enrichment analysis with the R package (clusterProfiler), which contains the genomic information of bread wheat, as well as GO enrichment analysis and KEGG enrichment analysis results. GO, KEGG annotation information. In order to better use the clusterProfiler package, this species package was created with reference to the Genome assembly IWGSC CS RefSeq v2.1 genome. The package is suitable for bread wheat (Triticum aestivum L) and the input gene format is Gene id: TraesCS1A03G0004200.
