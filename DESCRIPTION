@@ -1,0 +1,13 @@
+Package: org.TWheat.eg.db
+Title: Genome wide annotation for Triticum Wheat
+Description: Genome wide annotation for Triticum Wheat, primarily based on mapping using Entrez Gene identifiers.
+Version: 1.0.0
+Author: LiuTao
+Maintainer: LT<2021050131lt@nwafu.edu.cn>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.58.0)
+Suggests: DBI, annotate, RUnit
+License: Artistic-2.0
+organism: Triticum Wheat
+species: Triticum Wheat
+biocViews: OrgDb, annotation
+
